@@ -2,7 +2,7 @@ The goal of this coding exam is to quickly get you off the ground with **Lists a
 
 ### Refer to the image below:
 
-https://assets.ccbp.in/frontend/content/react-js/music-playlist-output.mp4
+https://github.com/Sreekanth4935/react-86-Music-Playlist-mock-1/assets/37910008/644a0913-a237-4eb3-a3ba-17fa4f5b84c4
 
 <br/>
 <div style="text-align: center;">
